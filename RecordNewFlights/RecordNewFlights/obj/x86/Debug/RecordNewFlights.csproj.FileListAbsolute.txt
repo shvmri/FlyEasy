@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2010\Projects\RecordNewFlights\RecordNewFlights\bin\Debug\RecordNewFlights.exe
+c:\users\dell\documents\visual studio 2010\Projects\RecordNewFlights\RecordNewFlights\bin\Debug\RecordNewFlights.pdb
+c:\users\dell\documents\visual studio 2010\Projects\RecordNewFlights\RecordNewFlights\obj\x86\Debug\RecordNewFlights.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\RecordNewFlights\RecordNewFlights\obj\x86\Debug\RecordNewFlights.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\RecordNewFlights\RecordNewFlights\obj\x86\Debug\RecordNewFlights.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\RecordNewFlights\RecordNewFlights\obj\x86\Debug\RecordNewFlights.exe
+c:\users\dell\documents\visual studio 2010\Projects\RecordNewFlights\RecordNewFlights\obj\x86\Debug\RecordNewFlights.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\FlyEasy Airline Management\RecordNewFlights\RecordNewFlights\obj\x86\Debug\RecordNewFlights.exe
+C:\Users\dell\Documents\Visual Studio 2010\Projects\FlyEasy Airline Management\RecordNewFlights\RecordNewFlights\obj\x86\Debug\RecordNewFlights.pdb
