@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2010\Projects\RecordPassengers\RecordPassengers\bin\Debug\RecordPassengers.exe
+c:\users\dell\documents\visual studio 2010\Projects\RecordPassengers\RecordPassengers\bin\Debug\RecordPassengers.pdb
+c:\users\dell\documents\visual studio 2010\Projects\RecordPassengers\RecordPassengers\obj\x86\Debug\RecordPassengers.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\RecordPassengers\RecordPassengers\obj\x86\Debug\RecordPassengers.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\RecordPassengers\RecordPassengers\obj\x86\Debug\RecordPassengers.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\RecordPassengers\RecordPassengers\obj\x86\Debug\RecordPassengers.exe
+c:\users\dell\documents\visual studio 2010\Projects\RecordPassengers\RecordPassengers\obj\x86\Debug\RecordPassengers.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\RecordPassengers\RecordPassengers\obj\x86\Debug\RecordPassengers.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2010\Projects\FlyEasy Airline Management\RecordPassengers\RecordPassengers\obj\x86\Debug\RecordPassengers.exe
+C:\Users\dell\Documents\Visual Studio 2010\Projects\FlyEasy Airline Management\RecordPassengers\RecordPassengers\obj\x86\Debug\RecordPassengers.pdb
