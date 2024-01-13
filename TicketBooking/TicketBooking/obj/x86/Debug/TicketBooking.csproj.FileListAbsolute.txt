@@ -1,7 +1,0 @@
-C:\Users\dell\Documents\Visual Studio 2010\Projects\FlyEasy Airline Management\TicketBooking\TicketBooking\bin\Debug\TicketBooking.exe
-C:\Users\dell\Documents\Visual Studio 2010\Projects\FlyEasy Airline Management\TicketBooking\TicketBooking\bin\Debug\TicketBooking.pdb
-C:\Users\dell\Documents\Visual Studio 2010\Projects\FlyEasy Airline Management\TicketBooking\TicketBooking\obj\x86\Debug\TicketBooking.Form1.resources
-C:\Users\dell\Documents\Visual Studio 2010\Projects\FlyEasy Airline Management\TicketBooking\TicketBooking\obj\x86\Debug\TicketBooking.Properties.Resources.resources
-C:\Users\dell\Documents\Visual Studio 2010\Projects\FlyEasy Airline Management\TicketBooking\TicketBooking\obj\x86\Debug\TicketBooking.csproj.GenerateResource.Cache
-C:\Users\dell\Documents\Visual Studio 2010\Projects\FlyEasy Airline Management\TicketBooking\TicketBooking\obj\x86\Debug\TicketBooking.exe
-C:\Users\dell\Documents\Visual Studio 2010\Projects\FlyEasy Airline Management\TicketBooking\TicketBooking\obj\x86\Debug\TicketBooking.pdb
